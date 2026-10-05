@@ -14,7 +14,8 @@
 
 > ### 🍴 Это форк
 > Проект является форком [**parser-2gis**](https://github.com/interlark/parser-2gis)
-> (© Andy Trofimov, лицензия LGPLv3). Оригинальная разработка принадлежит автору; Modified by Kirill BigDicker
+> Modified by Kirill BigDicker @kyrishk
+> (© Andy Trofimov, лицензия LGPLv3). Оригинальная разработка принадлежит автору; 
 > здесь добавлены модификации — см. раздел [«Изменения форка»](#-изменения-форка)
 > и [CHANGELOG](CHANGELOG.md). Это независимый форк, не одобрен и не поддерживается
 > оригинальным автором.
@@ -84,7 +85,7 @@
 Полный список — в [CHANGELOG.md](CHANGELOG.md).
 
 ## 📜 Лицензия и авторство
-
+- Modified by KirillBigDicker @kyrishk; Специально для WST!
 - Оригинальный проект: **parser-2gis** — © **Andy Trofimov** (interlark@gmail.com),
   https://github.com/interlark/parser-2gis
 - Лицензия: **GNU LGPLv3** (см. [LICENSE](LICENSE)) — сохранена без изменений.
