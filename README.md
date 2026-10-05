@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#%E2%84%B9%EF%B8%8F-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">
-    <img alt="Logo" width="128" src="https://avatars.mds.yandex.net/i?id=c8f5259ba9669e3eb0305ccfccfcb8d5a620bfcc-8196573-images-thumbs&n=13"/>
+    <img alt="Logo" width="128" src="https://upload.wikimedia.org/wikipedia/ru/thumb/7/77/Логотип_2ГИС.svg/3840px-Логотип_2ГИС.svg.png"/>
   </a>
 </p>
 <h1 align="center">Parser2GIS</h1>
